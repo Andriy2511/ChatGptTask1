@@ -1,0 +1,7 @@
+Task 1
+Create a RESTful API to manage a simple todo list application using Spring Boot, Hibernate, and MySQL.
+The application should allow users to create, read, update, and delete todo items.
+Each item should have a title and a description. Use Hibernate to persist the items in the database.
+
+ChatGPT conversation:
+https://chatgpt.com/share/672e2941-18f8-8000-b5f1-7bd9f3ee973a
